@@ -1,2 +1,2 @@
 # ML_code
-List of ML models and their basic code
+List of different Regression ML models and their basic code
